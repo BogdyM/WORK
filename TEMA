@@ -1,0 +1,4 @@
+git init
+echo "Sample content" > example.txt
+git add example.txt
+git commit -m "Added example file"
